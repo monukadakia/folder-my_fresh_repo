@@ -1,3 +1,4 @@
 Commit Early 
 Commit Often
 Commit Often
+Commit Often
